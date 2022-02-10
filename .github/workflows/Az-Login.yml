@@ -1,5 +1,5 @@
 # az-login.yaml
-name: Display Account Info updated
+name: Display Account Info updated on 02/10/2022 at 18:17
 
 on:
   push:
